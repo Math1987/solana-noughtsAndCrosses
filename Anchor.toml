@@ -3,6 +3,9 @@ seeds = false
 [programs.localnet]
 noughts_and_crosses = "CkxPkxnw9MHLDHVp5gNzAcTnHxLHk1pi5mwVohgjosXZ"
 
+[programs.devnet]
+noughts_and_crosses = "CkxPkxnw9MHLDHVp5gNzAcTnHxLHk1pi5mwVohgjosXZ"
+
 [registry]
 url = "https://anchor.projectserum.com"
 
